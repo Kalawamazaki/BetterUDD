@@ -1,4 +1,6 @@
-# BetterUDD ![BetterUDD Logo](Logos/BetterUDD-App-Outline-Logo-128.png)
+![BetterUDD Logo](Logos/BetterUDD-App-Outline-Logo-128.png)
+# BetterUDD
+
 A browser extension that enhances the u.dordt.edu directory with self-reported statuses.
 
 ## Installation
