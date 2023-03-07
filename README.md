@@ -6,7 +6,9 @@ A browser extension that enhances the u.dordt.edu directory with self-reported s
 Tired of being the "last one to know" when a relationship starts or ends on campus?  This unofficial extension allows you see other Dordt students' relationship statuses and to self-report your own relationship status to make it visible for other students using the u.dordt directory and BetterUDD.
 
 ## Installation
-When this extension is approved, links to each browser's respective web store will be posted here.
+Choose the installation link for your browser:
+
+[![Firefox add-on button](Logos/firefox-get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/betterudd/)
 
 ## Credits
 A huge thanks to the people who helped me with this extension.  Some of those people include:
