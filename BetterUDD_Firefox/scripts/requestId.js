@@ -12,7 +12,6 @@ function forwardMessage(message) {
 (async () => {
 	const [tab] = await browser.tabs.query({active: true, lastFocusedWindow: true});
 	const response = await browser.tabs.sendMessage(tab.id, {instructions: "Requesting identification"});
-	// do something with response here, not outside the function
 	//console.error(response.data);
 	forwardMessage(response);
 })();
