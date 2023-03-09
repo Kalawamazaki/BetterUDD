@@ -8,6 +8,8 @@ Tired of being the "last one to know" when a relationship starts or ends on camp
 ## Installation
 Choose the installation link for your browser:
 
+[![Edge add-on button](Logos/get_it_from_MS.png)](https://microsoftedge.microsoft.com/addons/detail/ablemafmocjmlpkhgailnbjcllhgaofb)
+
 [![Firefox add-on button](Logos/firefox-get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/betterudd/)
 
 ## Credits
